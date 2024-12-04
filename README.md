@@ -1,4 +1,4 @@
-### Hi there 👋, it's me Riyad(Rio)
+### Riyad Hassen
 
 <!--
 **RiyadHassen/RiyadHassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
