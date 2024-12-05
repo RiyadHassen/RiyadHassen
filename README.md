@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 My goal is to continuously enhance my skills and knowledge in these areas to drive innovation and create solutions that solve real-world problems
 -->
 - 🔭 I'm a grad student and teaching assistant in the department of Computer Science at the University of Wisconsin  Madison
-- 🌱 I am pursuing my master's in computer science and  Machine Learning.
+- 🌱 I am pursuing my master's in computer science, specalizing in  Machine Learning/Computer vision.
 - ⚡ Eskalate -> I worked as a Software Engineer and Backend Developer.
 -  As a part of my training at A2SV  I participated as a teaching assistant and mentored students in Problem-solving (Data structure and algorithms).  
 - 👯 I’m looking to collaborate on open-source projects and work in research group in the area of Machine Learning/Computer Vision.
